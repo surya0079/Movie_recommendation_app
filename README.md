@@ -1,6 +1,9 @@
 # Movie_recommendation_app
 we will use GenAi model like google gemini to suggest a movie similar to the user input
 
+# App link
+https://movierecommendationapp-qxyyke7ygkcvnfjsr8dpxs.streamlit.app/
+
 ## How does it work:
 1.Sign in to github
 
